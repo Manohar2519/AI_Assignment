@@ -1,0 +1,42 @@
+[
+    {
+        "prompt": "Generate an ERC-20 token contract with burn functionality",
+        "output": "pragma solidity ^0.8.0;\ncontract MyToken { ... }"
+    },
+    {
+        "prompt": "Generate an ERC-721 NFT contract with metadata storage",
+        "output": "pragma solidity ^0.8.0;\ncontract MyNFT { ... }"
+    },
+    {
+        "prompt": "Generate a smart contract for a simple crowdfunding campaign",
+        "output": "pragma solidity ^0.8.0;\ncontract Crowdfunding { ... }"
+    },
+    {
+        "prompt": "Generate a smart contract for a voting system",
+        "output": "pragma solidity ^0.8.0;\ncontract Voting { ... }"
+    },
+    {
+        "prompt": "Generate a Solidity contract for a decentralized marketplace",
+        "output": "pragma solidity ^0.8.0;\ncontract Marketplace { ... }"
+    },
+    {
+        "prompt": "Generate a smart contract for time-locked payments",
+        "output": "pragma solidity ^0.8.0;\ncontract Timelock { ... }"
+    },
+    {
+        "prompt": "Generate a Solidity contract for a DAO governance system",
+        "output": "pragma solidity ^0.8.0;\ncontract DAO { ... }"
+    },
+    {
+        "prompt": "Generate a smart contract for a staking system",
+        "output": "pragma solidity ^0.8.0;\ncontract Staking { ... }"
+    },
+    {
+        "prompt": "Generate a smart contract for an auction system",
+        "output": "pragma solidity ^0.8.0;\ncontract Auction { ... }"
+    },
+    {
+        "prompt": "Generate a Solidity contract for a lending protocol",
+        "output": "pragma solidity ^0.8.0;\ncontract Lending { ... }"
+    }
+]
